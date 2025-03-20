@@ -1,4 +1,4 @@
-import { use, useRef } from "react";
+import { useRef } from "react";
 
 import {
   OrbitControls,
