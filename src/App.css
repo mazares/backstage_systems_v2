@@ -1,0 +1,15 @@
+/* .App {
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  background: #333;
+  color: #ddd;
+} */
+
+canvas {
+  display: block;
+  inline-size: 100dvi;
+  block-size: 100dvb;
+  margin: 0 auto;
+  background: radial-gradient(circle at 50% 50%, #333, #000);
+}
